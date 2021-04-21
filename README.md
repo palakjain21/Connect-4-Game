@@ -9,3 +9,5 @@ Every board state has a value associated with it. In a given state if the maximi
 
 **Alpha** is the best value that the maximizer currently can guarantee at that level or above.
 **Beta** is the best value that the minimizer currently can guarantee at that level or above.
+![Screenshot (397)](https://user-images.githubusercontent.com/56087514/115623970-8ff97e00-a317-11eb-95d8-4778c055fee6.png)
+
